@@ -1,0 +1,9 @@
+<div class="sm: w-3/4 mx-auto py-10 px-0">
+    <h2 class="font-bold text-2xl lg:text-3xl">What's on your mind?</h2>
+    
+    <div class="overflow-x-auto flex space-x-4 py-5 [&::-webkit-scrollbar]:h-1
+    [&::-webkit-scrollbar-track]:bg-white [&::-webkit-scrollbar-thumb]:bg-orange-600">
+        <app-dish *ngFor="let dish of dishes" [dish]="dish"></app-dish>
+    </div>
+</div>
+ 
