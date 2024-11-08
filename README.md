@@ -104,11 +104,10 @@ src
 ![image](https://github.com/user-attachments/assets/4e5fd798-9abb-4f20-be19-ad462c125bdd)
 
 ### Order History
-![image](https://github.com/user-attachments/assets/788c3c64-9372-4ede-aad0-4f801f7f7f3f)
+![image](https://github.com/user-attachments/assets/3772e2fc-9b73-4cb9-bbd9-3458a0367b6a)
 
 ### Footer Section
-![image](https://github.com/user-attachments/assets/8f7f5c7d-a815-4844-98f8-bbeb25cf8e40)
-
+![image](https://github.com/user-attachments/assets/79bf75de-043d-49f2-812d-7c4599cd1e68)
 
 ---
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.9.
